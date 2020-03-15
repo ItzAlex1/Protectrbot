@@ -1,0 +1,14 @@
+{
+  "name": "reganplayz",
+  "version": "1.0.0",
+  "description": "Protectr, protect your kingdom!",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "luxluxdev",
+  "license": "MIT",
+  "dependencies": {
+    "luxcord": "^1.0.31"
+  }
+}
